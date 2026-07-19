@@ -19,6 +19,7 @@ from catalogo_semantico import construir_vectorstore, buscar_proveedor_similar
 
 RUTA_PRECIOS = os.path.join(os.path.dirname(__file__), "..", "data", "procesados", "precios.csv")
 RUTA_PROVEEDORES = os.path.join(os.path.dirname(__file__), "..", "data", "procesados", "proveedores.csv")
+MODELO_COHERE = os.environ.get("COHERE_MODEL", "command-a-03-2025")
 
 _precios, _proveedores = cargar_datos(RUTA_PRECIOS, RUTA_PROVEEDORES)
 _vectorstore = None  # se construye de forma perezosa (lazy) - requiere API key de Cohere
@@ -96,7 +97,7 @@ Reglas:
 
 
 def crear_agente() -> AgentExecutor:
-    llm = ChatCohere(model="command-r-plus", temperature=0)
+    llm = ChatCohere(model=MODELO_COHERE, temperature=0)
     tools = [optimizar_pedido_tool, listar_productos_disponibles_tool, buscar_proveedor_similar_tool]
 
     prompt = ChatPromptTemplate.from_messages(

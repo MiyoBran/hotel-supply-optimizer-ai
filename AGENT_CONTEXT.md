@@ -62,6 +62,7 @@ Esto hace que el resultado sea reproducible.
 - Python 3.11 o compatible
 - dependencias instaladas desde `requirements.txt`
 - variable de entorno `COHERE_API_KEY`
+- variable opcional `COHERE_MODEL` si queres cambiar el modelo por defecto
 
 Si falta `COHERE_API_KEY`, la app y el prototipo se detienen con advertencia.
 

@@ -127,6 +127,8 @@ proforma (no requiere precio, solo el nombre del producto y alias):
 
 - **Python 3.11**
 - **LangChain** + **langchain-cohere** — orquestación del agente y tools
+  (la versión está fijada para mantener compatibilidad con `AgentExecutor`)
+- **Cohere Command A** (`command-a-03-2025`) — modelo por defecto para el agente
 - **Cohere** (`command-r-plus` para chat, `embed-multilingual-v3.0` para embeddings)
 - **Chroma** — vector store en memoria para la búsqueda semántica
 - **Pandas** — lógica de negocio sobre los CSV
