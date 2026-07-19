@@ -1,0 +1,32 @@
+clave,proveedor,producto,precio,unidad,fuente
+papel_higienico,TITO,Papel higienico (paquete x4 rollos),1500,paquete,EST
+papel_higienico,QUILLAKAS,Papel higienico Felpita 4x30m,2400,paquete,REAL
+aceite,YAMINHUE,Aceite (bidon 5L),23500,bidon,REAL
+aceite,QUILLAKAS,Aceite (bidon 5L),20500,bidon,EST
+leche,SAEZ,Leche entera larga vida (1L),1594,litro,REAL
+leche,SANCOR,Leche entera (1L),1650,litro,EST
+queso_barra,SAEZ,Queso barra,9300,horma,REAL
+queso_barra,CEDISUR,Queso Tybo Melincue (barra),9750,horma,EST
+pan_blanco,BIMBO,Pan blanco (bolsa),2800,bolsa,EST
+pan_blanco,El Antojo,Pan blanco (bolsa),3100,bolsa,EST
+naranjas,QUILLAKAS,Naranjas (cajon),8500,cajon,EST
+banana,QUILLAKAS,Banana,350,unidad,EST
+huevos,QUILLAKAS,Huevos (caja),12000,caja,EST
+limon,QUILLAKAS,Limon,300,unidad,EST
+levadura,QUILLAKAS,Levadura (cubo 50g),450,cubo,EST
+azucar,YAMINHUE,Azucar Ledesma (bulto),19350,bulto,REAL
+edulcorante,YAMINHUE,Edulcorante Ledesma (x396 sobres),10900,caja,REAL
+harina,YAMINHUE,Harina 0000 (kg),1200,kg,EST
+miel,YAMINHUE,Miel (compotera 100gr),900,unidad,EST
+manteca,SANCOR,Manteca (10gr),150,unidad,EST
+dulce_de_leche,SANCOR,Dulce de leche (10gr),140,unidad,EST
+medialunas,CEDISUR,Medialunas Cremachel (caja x150),45000,caja,EST
+paleta_lario,CEDISUR,Paleta sanguchera Lario (horma),11276,horma,REAL
+cafe,BAHICAFE,Cafe (kg),9500,kg,EST
+servilletas,BAHICAFE,Servilletas 33x33 (paquete x1000u),8000,paquete,EST
+polvo_hornear,TITO,Polvo de hornear,800,unidad,EST
+bolsa_arranque,TITO,Bolsa de arranque 30x60 (paquete),2100,paquete,EST
+agua,La Maragata,Agua con/sin gas (pack),3500,pack,EST
+resma_a4,Abel Libreria,Resma A4,6500,resma,EST
+corrector,Abel Libreria,Corrector,1200,unidad,EST
+jabon_tocador,Castor Bahia,Jabon de tocador individual chico (bulto),54900,bulto,REAL

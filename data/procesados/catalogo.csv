@@ -1,0 +1,67 @@
+proveedor,producto,categoria,precio,unidad,alias,fuente
+TITO,Papel higienico (paquete x4 rollos),Limpieza y Descartables,1500,paquete,papel higienico economico,EST
+QUILLAKAS,Papel higienico Felpita 4x30m,Limpieza y Descartables,2400,paquete,papel higienico calidad,REAL
+YAMINHUE,Aceite (bidon 5L),Frutas y Almacen,23500,bidon,aceite girasol,REAL
+QUILLAKAS,Aceite (bidon 5L),Frutas y Almacen,20500,bidon,aceite girasol,EST
+SAEZ,Leche entera larga vida (1L),Bebidas y Almacen,1594,litro,leche larga vida,REAL
+SANCOR,Leche entera (1L),Bebidas y Almacen,1650,litro,leche,EST
+SAEZ,Queso barra,Bebidas y Almacen,9300,horma,queso la tregua,REAL
+CEDISUR,Queso Tybo Melincue (barra),Bebidas y Almacen,9750,horma,queso tybo,EST
+BIMBO,Pan blanco (bolsa),Bebidas y Almacen,2800,bolsa,pan blanco 600gr,EST
+El Antojo,Pan blanco (bolsa),Bebidas y Almacen,3100,bolsa,pan blanco merienda,EST
+QUILLAKAS,Naranjas (cajon),Frutas y Almacen,8500,cajon,naranja,EST
+QUILLAKAS,Banana,Frutas y Almacen,350,unidad,banana,EST
+QUILLAKAS,Huevos (caja),Frutas y Almacen,12000,caja,huevos,EST
+QUILLAKAS,Limon,Frutas y Almacen,300,unidad,limon,EST
+QUILLAKAS,Levadura (cubo 50g),Frutas y Almacen,450,cubo,levadura fresca,EST
+QUILLAKAS,Fruta de estacion (manzana/pera/ciruela),Frutas y Almacen,,,fruta de estacion,REAL-relevamiento
+YAMINHUE,Azucar Ledesma (bulto),Frutas y Almacen,19350,bulto,azucar,REAL
+YAMINHUE,Edulcorante Ledesma (x396 sobres),Frutas y Almacen,10900,caja,edulcorante,REAL
+YAMINHUE,Harina 0000 (kg),Frutas y Almacen,1200,kg,harina,EST
+YAMINHUE,Miel (compotera 100gr),Frutas y Almacen,900,unidad,miel,EST
+YAMINHUE,Membrillo,Frutas y Almacen,,,dulce membrillo,REAL-relevamiento
+YAMINHUE,Maicena,Frutas y Almacen,,,maicena,REAL-relevamiento
+YAMINHUE,Azucar impalpable,Frutas y Almacen,,,azucar impalpable,REAL-relevamiento
+YAMINHUE,Panificado sin TACC,Frutas y Almacen,,,sin tacc,REAL-relevamiento
+SANCOR,Manteca (10gr),Bebidas y Almacen,150,unidad,manteca porcionada,EST
+SANCOR,Dulce de leche (10gr),Bebidas y Almacen,140,unidad,ddl porcionado,EST
+SANCOR,Yogurt vainilla,Bebidas y Almacen,,,yogurt,REAL-relevamiento
+SANCOR,Yogurt frutilla,Bebidas y Almacen,,,yogurt,REAL-relevamiento
+SAEZ,Yogurt (2do proveedor),Bebidas y Almacen,1560,litro,yogurt cremigal,REAL
+CEDISUR,Medialunas Cremachel (caja x150),Bebidas y Almacen,45000,caja,medialunas,EST
+CEDISUR,Paleta sanguchera Lario (horma),Bebidas y Almacen,11276,horma,paleta cagnoli,REAL
+CEDISUR,Jamon cocido (horma),Bebidas y Almacen,,,fiambre,REAL-relevamiento
+BAHICAFE,Cafe (kg),Bebidas y Almacen,9500,kg,cafe molido,EST
+BAHICAFE,Cafe en grano,Bebidas y Almacen,,,cafe grano,REAL-relevamiento
+BAHICAFE,Te sabores,Bebidas y Almacen,,,te,REAL-relevamiento
+BAHICAFE,Mate cocido,Bebidas y Almacen,,,mate cocido,REAL-relevamiento
+BAHICAFE,Cacao en polvo,Bebidas y Almacen,,,cacao,REAL-relevamiento
+BAHICAFE,Servilletas 33x33 (paquete x1000u),Bebidas y Almacen,8000,paquete,servilletas desayuno,EST
+TITO,Polvo de hornear,Frutas y Almacen,800,unidad,polvo hornear,EST
+TITO,Bolsa de arranque 30x60 (paquete),Limpieza y Descartables,2100,paquete,bolsa residuo,EST
+La Maragata,Agua con/sin gas (pack),Bebidas y Almacen,3500,pack,agua mineral,EST
+Coca Cola,Agua con gas,Bebidas y Almacen,,,agua con gas,REAL-relevamiento
+Coca Cola,Gaseosas (Coca Zero),Bebidas y Almacen,,,gaseosa,REAL-relevamiento
+Abel Libreria,Resma A4,Libreria y Recepcion,6500,resma,papel resma,EST
+Abel Libreria,Corrector,Libreria y Recepcion,1200,unidad,corrector liquido,EST
+Castor Bahia,Jabon de tocador individual chico (bulto),Limpieza y Descartables,54900,bulto,jabon amenities,REAL
+Castor Bahia,Shampoo amenities,Limpieza y Descartables,,,shampoo habitacion,REAL-relevamiento
+Castor Bahia,Acondicionador amenities,Limpieza y Descartables,,,acondicionador,REAL-relevamiento
+Thames,Lustra Metal Ascensor,Limpieza y Descartables,,,lustrametal,REAL
+Thames,Limpiador de inodoros / Quitasarro,Limpieza y Descartables,,,quitasarro,REAL
+Thames,Cera para Madera,Limpieza y Descartables,,,cera madera,REAL
+Thames,Desmanchador de Alfombras,Limpieza y Descartables,,,desmanchador,REAL
+CleanLiness,Lavandina,Limpieza y Descartables,,,lavandina,REAL-relevamiento
+CleanLiness,Cera,Limpieza y Descartables,,,cera piso,REAL-relevamiento
+CleanLiness,Quitasarro,Limpieza y Descartables,,,quitasarro,REAL-relevamiento
+CleanLiness,Alcohol para fajinar,Limpieza y Descartables,,,alcohol,REAL-relevamiento
+Casa Texeira,Papel Higienico Grand Familiar 4x60mts (paquete),Limpieza y Descartables,1982.62,paquete,papel higienico rollo,REAL-Texeira-06/07/26
+Casa Texeira,Bolsa Arranque AD 30x40x750gr (paquete),Descartables,5086.16,paquete,bolsa consorcio bolsa residuo bolsa 30x40,REAL-Texeira-06/07/26
+Casa Texeira,Bolsa Residuo 45x60 (paquete x10),Descartables,297.78,paquete,bolsa residuo 45x60,REAL-Texeira-06/07/26
+Casa Texeira,Pilas Energizer AA x4,Varios,1901.43,paquete,pilas doble a,REAL-Texeira-06/07/26
+Casa Texeira,Lavandina Odex Comun x2L,Limpieza y Descartables,2241.09,unidad,lavandina comun,REAL-Texeira-06/07/26
+Casa Texeira,Guante Mapa Descartable Multiuso x10,Limpieza y Descartables,2633.68,paquete,guantes de goma,REAL-Texeira-06/07/26
+Casa Texeira,Yerba Don Basilio Suave x1kg,Bebidas y Almacen,3522.32,unidad,yerba mate,REAL-Texeira-06/07/26
+Casa Texeira,Agua Orizon 12x500ml,Bebidas y Almacen,10640.31,caja,agua mineral,REAL-Texeira-06/07/26
+Casa Texeira,Encendedor Candela Transparente x25u,Varios,8277.29,paquete,encendedor,REAL-Texeira-06/07/26
+Casa Texeira,Resma A4 (referencia distribuidor),Libreria y Recepcion,,,resma papel,REAL-Texeira-06/07/26

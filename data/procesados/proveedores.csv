@@ -1,0 +1,17 @@
+proveedor,rubro,condicion_pago,fuente
+SAEZ,Bebidas y Almacen,Cuenta Corriente,REAL
+QUILLAKAS,Frutas y Almacen,Cuenta Corriente,REAL
+CEDISUR,Bebidas y Almacen,Cuenta Corriente,REAL
+BIMBO,Bebidas y Almacen,Cuenta Corriente,REAL
+TITO,Limpieza y Descartables,Contado,REAL
+THAMES,Limpieza y Descartables,Contado,REAL
+SANCOR,Bebidas y Almacen,Cuenta Corriente,REAL
+YAMINHUE,Frutas y Almacen,Contado,REAL
+La Maragata,Frutas y Almacen,Cuenta Corriente,REAL
+Casa Texeira,Multi-rubro (Almacen/Limpieza/Bebidas/Libreria/Perfumeria),Contado,REAL
+El Antojo,Bebidas y Almacen,Contado,REAL
+Castor Bahia,Limpieza y Descartables,Cuenta Corriente,REAL
+Abel Libreria,Libreria y Recepcion,Contado,REAL
+Bahicafe,Bebidas y Almacen,Desconocida,REAL-relevamiento
+Coca Cola,Bebidas y Almacen,Desconocida,REAL-relevamiento
+CleanLiness,Limpieza y Descartables,Desconocida,REAL-relevamiento
