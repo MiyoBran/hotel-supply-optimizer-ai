@@ -140,10 +140,15 @@ proforma (no requiere precio, solo el nombre del producto y alias):
 ```bash
 git clone <url-del-repo>
 cd alura-agente-hotel
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
 # completar .env con tu COHERE_API_KEY (gratis en https://dashboard.cohere.com/api-keys)
 ```
+
+El directorio `.venv/` no se sube al repositorio: cada persona lo recrea en su
+máquina al clonar el proyecto.
 
 Probar primero en local, sin interfaz:
 ```bash

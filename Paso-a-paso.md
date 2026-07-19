@@ -23,6 +23,9 @@ Después instalá dependencias:
 pip install -r requirements.txt
 ```
 
+Ese directorio `.venv/` no se versiona. Cada clon del repo tiene que recrearlo
+localmente con los mismos pasos.
+
 No hace falta desinstalar nada de Windows; ese entorno queda separado del de WSL.
 
 3. Crear el .env y conseguir la API key de Cohere
