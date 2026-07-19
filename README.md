@@ -176,6 +176,19 @@ streamlit run app.py
 4. Ejecutar `streamlit run app.py`.
 5. Probar una consulta de consolidación y otra de proveedor sugerido.
 
+## Documentación del challenge
+
+Las recomendaciones del challenge se adaptaron a este proyecto en una carpeta
+específica:
+
+- [Preguntas frecuentes](docs/challenge/faq.md)
+- [Política de privacidad y manejo de datos](docs/challenge/privacidad.md)
+- [Términos de uso](docs/challenge/terminos.md)
+
+Estas páginas complementan el README y el paso a paso con la parte más
+importante para la entrega: qué hace el agente, qué datos usa y cuáles son sus
+límites.
+
 ## Ejemplos de preguntas y respuestas
 
 **Pregunta:** *"Necesito pedir papel higiénico, aceite, leche, queso barra y pan
