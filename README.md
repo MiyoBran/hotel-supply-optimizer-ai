@@ -176,8 +176,8 @@ otra plataforma equivalente; no es obligatorio usar OCI.
 
 Para completar la entrega conviene incluir:
 
-- El enlace público de la app.
-- Una captura de pantalla de la aplicación funcionando.
+- El enlace público de la app: https://hotel-supply-optimizer-ai.streamlit.app/
+- Una captura de pantalla de la aplicación funcionando: [docs/Agente-de-Compras-Austral.png](docs/Agente-de-Compras-Austral.png)
 - La plataforma usada y la fecha del deploy.
 
 La versión recomendada de esta evidencia está documentada en

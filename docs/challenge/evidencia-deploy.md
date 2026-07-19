@@ -6,7 +6,7 @@ Streamlit Community Cloud u otra plataforma pública equivalente.
 
 ### Qué incluir como evidencia
 
-- El enlace público de la aplicación desplegada.
+- El enlace público de la aplicación desplegada: https://hotel-supply-optimizer-ai.streamlit.app/
 - Una captura de pantalla donde se vea la app funcionando.
 - Una breve nota con la fecha del deploy y la plataforma usada.
 
@@ -16,7 +16,7 @@ Streamlit Community Cloud u otra plataforma pública equivalente.
 
 ### Plantilla sugerida
 
-- URL pública: `https://...`
+- URL pública: `https://hotel-supply-optimizer-ai.streamlit.app/`
 - Plataforma: `Streamlit Community Cloud`
 - Captura: `docs/Agente-de-Compras-Austral.png`
 - Observación: `La app responde correctamente a la consulta de ejemplo`
