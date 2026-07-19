@@ -168,6 +168,21 @@ streamlit run app.py
 3. En **Settings → Secrets**, agregar `COHERE_API_KEY = "tu_api_key"`.
 4. Deploy. No requiere tarjeta de crédito ni OCI.
 
+## Evidencia de despliegue en la nube
+
+El challenge pide mostrar que la app fue desplegada y funciona en la nube. En
+este proyecto alcanza con un despliegue público en Streamlit Community Cloud u
+otra plataforma equivalente; no es obligatorio usar OCI.
+
+Para completar la entrega conviene incluir:
+
+- El enlace público de la app.
+- Una captura de pantalla de la aplicación funcionando.
+- La plataforma usada y la fecha del deploy.
+
+La versión recomendada de esta evidencia está documentada en
+[docs/challenge/evidencia-deploy.md](docs/challenge/evidencia-deploy.md).
+
 ## Flujo recomendado para probarlo
 
 1. Crear el entorno virtual e instalar dependencias.
